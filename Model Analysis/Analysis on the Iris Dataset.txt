@@ -135,3 +135,5 @@
 | **KNN**             | Small, simple datasets               | Easy to implement and interpret          | Sensitive to scaling and large datasets  |
 | **SVM**             | High-dimensional or linear problems  | Strong theoretical foundation, high accuracy | Requires careful tuning of parameters    |
 | **RNN**             | Sequential/time-series data          | Captures temporal relationships          | Overkill for static/tabular data         |
+
+For the **Iris dataset**, simpler methods like Random Forest, SVM, or KNN are most appropriate due to its small size and tabular nature. CNN and RNN are not ideal here but demonstrate versatility for other data types.
