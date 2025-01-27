@@ -36,37 +36,6 @@ My learning journey is based on a combination of online courses, books, research
 
 This repository is an ongoing project, and I will continuously add new work and insights as I progress.
 
-## Projects
-
-Here are some of the key projects that I have completed so far:
-
-### 1. **Random Forest Image Classification**
-- **Objective**: Classify handwritten digits using the MNIST dataset with a Random Forest classifier.
-- **Tools Used**: Scikit-learn, Matplotlib
-- [Link to Project](./projects/random_forest_image_classification)
-
-### 2. **Decision Trees for MNIST**
-- **Objective**: Experiment with Decision Trees for classification tasks using the MNIST dataset.
-- **Tools Used**: Scikit-learn, Matplotlib
-- [Link to Project](./projects/decision_trees_mnist)
-
-### 3. **Neural Networks for MNIST**
-- **Objective**: Build and train a neural network for handwritten digit classification.
-- **Tools Used**: TensorFlow, Keras
-- [Link to Project](./projects/neural_networks_mnist)
-
-### 4. **K-Means Clustering**
-- **Objective**: Implement K-Means clustering for data segmentation on random datasets.
-- **Tools Used**: Scikit-learn, Matplotlib
-- [Link to Project](./projects/kmeans_clustering)
-
-## Technologies Used
-
-- **Programming Languages**: Python
-- **Libraries**: Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib
-- **Tools**: Jupyter Notebook, Google Colab
-- **Datasets**: MNIST, Custom Datasets from Kaggle
-
 ## Future Plans
 
 In the future, I plan to work on the following areas:
